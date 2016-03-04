@@ -1,5 +1,5 @@
 sentence = ""
-puts "Introduce una frase"
+puts "Introduce a sentence (please no punctuation)"
 sentence = gets.chomp
 
 def namesorting (sentence)	
